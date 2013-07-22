@@ -1,4 +1,1 @@
-avarice
-=======
-
-avarice
+AVARICE
